@@ -81,7 +81,7 @@
         [varString appendFormat:@"%@\n",varName];
     }
     //打印所有的属性
-    LXLog(@"%@",varString);
+//    LXLog(@"%@",varString);
 }
 
 @end
