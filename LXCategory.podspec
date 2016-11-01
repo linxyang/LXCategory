@@ -13,7 +13,7 @@ s.license = "MIT"
 s.author = { "linxyang" => "1217789227@qq.com" }
 # 作者主页 s.social_media_url ="http://www.jianshu.com/users/205fbf665de0/latest_articles"
 # 代码库最低支持的版本
-s.platform = :ios, "7.0"
+s.platform = :ios, "8.0"
 # 代码的Clone 地址 和 tag 版本
 s.source = { :git => "https://github.com/linxyang/LXCategory.git", :tag => "0.1.0" }
 # 如果使用pod 需要导入哪些资源
