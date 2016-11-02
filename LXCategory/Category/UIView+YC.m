@@ -7,6 +7,7 @@
 //
 
 #import "UIView+YC.h"
+#import <objc/runtime.h>
 
 @implementation UIView (YC)
 

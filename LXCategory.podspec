@@ -15,7 +15,7 @@ s.author = { "linxyang" => "1217789227@qq.com" }
 # 代码库最低支持的版本
 s.platform = :ios, "8.0"
 # 代码的Clone 地址 和 tag 版本
-s.source = { :git => "https://github.com/linxyang/LXCategory.git", :commit => "e000bc5a7e5cc15bc4d4362285ad2f3cf457f65d" }
+s.source = { :git => "https://github.com/linxyang/LXCategory.git", :commit => "9f77e28fad3cec85ee7575b48724e34326c40a3f" }
 # 如果使用pod 需要导入哪些资源
 s.source_files = "LXCategory","LXCategory/Category/*.{m,h}"
 s.resources = "LXCategory/bundle/*.bundle"
