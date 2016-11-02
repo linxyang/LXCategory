@@ -72,7 +72,7 @@
 {
     _click = nil;
     _cancel = nil;
-    YCLog(@"LXActionSheet release...");
+//    YCLog(@"LXActionSheet release...");
 }
 
 - (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
